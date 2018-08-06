@@ -9,7 +9,6 @@ The recommendation system has widely employed in online service. It provides the
 
 Goals
 -----
-The goals of this assignment are:  
 1. to make the prediction of movie rating for the users by implementing collaborative filtering algorithm.   
 2. to use the most similar k users to predict ratings in improved user-based CF.
 3. to evaluate the terms of accuracy according to Root-Mean-Square Error.
